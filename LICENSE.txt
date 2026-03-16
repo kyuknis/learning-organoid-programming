@@ -1,0 +1,46 @@
+Copyright (c) 2022-2026 Kirkland Yuknis. All rights reserved.
+
+SOURCE AVAILABLE LICENSE — VIEWING ONLY
+
+This software and associated documentation files (the "Software") are the
+exclusive property of Kirkland Yuknis ("the Author"). The source code is made
+publicly visible for portfolio and evaluation purposes only.
+
+PERMISSIONS
+
+You are permitted to:
+  - View and read the source code for personal evaluation, education,
+    or employment consideration purposes.
+
+RESTRICTIONS
+
+You are expressly prohibited from:
+  - Using the Software, in whole or in part, in any application, product,
+    or service, whether commercial or non-commercial.
+  - Copying, reproducing, or duplicating the Software or any portion thereof.
+  - Modifying, adapting, translating, or creating derivative works based
+    upon the Software.
+  - Distributing, publishing, sublicensing, selling, or transferring the
+    Software or any rights in the Software to any third party.
+  - Using the Software's design, architecture, or implementation as a
+    direct template for competing or derivative works.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+TERMINATION
+
+Any rights granted under this license terminate automatically and immediately
+upon any breach of its terms. Upon termination, you must cease all viewing
+and destroy any copies of the Software in your possession.
+
+CONTACT
+
+For licensing inquiries or permissions beyond the scope of this license,
+contact: kirkland@yuknis.com
